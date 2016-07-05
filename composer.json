@@ -18,6 +18,5 @@
         "psr-0": {
             "Cyberduck\\LaravelWpApi\\": "src/"
         }
-    },
-    "minimum-stability": "dev-master"
+    }
 }
